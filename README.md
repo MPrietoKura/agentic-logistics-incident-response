@@ -5,7 +5,7 @@ Description of the automated supply chain incident processing system and its bus
 ### <ins>Implementation Steps</ins><br/>
 Key architectural decisions, AI agent configuration choices, and integration approaches used
 ### <ins>Architecture Diagram</ins><br/>
-Visual representation of the complete workflow showing ServiceNow agents, n8n coordination, and external system integration
+<img width="1986" height="1381" alt="Diagram" src="https://github.com/user-attachments/assets/99cef248-10f7-45d4-95bf-1c54a5c79c02" />
 ### <ins>Testing Results</ins><br/>
 Evidence of successful end-to-end system operation with specific examples of financial analysis, routing decisions, and external execution
 ### <ins>Business Value</ins><br/>
